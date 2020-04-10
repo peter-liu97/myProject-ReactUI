@@ -1,0 +1,7 @@
+.box{
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.box *{
+    margin:auto 5px;
+}
